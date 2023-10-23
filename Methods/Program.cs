@@ -6,8 +6,13 @@
         Add();
         Add();
         Add();
-       var result= Add2();
+        var result= Add2();
+        int number1 = 20;
+        int number2 = 100;
+        var result2=Add3(ref number1 ,number2);
         Console.WriteLine(result);
+        Console.WriteLine(result2);
+        Console.WriteLine(number1);
         Console.ReadLine();
     }
     static void Add()
@@ -20,6 +25,15 @@
         var result =num1+ num2; 
         return result;
     }
+
+    // Ref Keyword İle Çalışmak
+    static int Add3(ref int num1 , int num2 )
+    {
+        num1 = 30;
+        return num1+num2;
+    }
+
+
 
 
 }
