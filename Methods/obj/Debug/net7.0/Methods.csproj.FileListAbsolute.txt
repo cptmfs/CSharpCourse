@@ -1,0 +1,15 @@
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\bin\Debug\net7.0\Methods.exe
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\bin\Debug\net7.0\Methods.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.csproj.AssemblyReference.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Methods\obj\Debug\net7.0\ref\Methods.dll
