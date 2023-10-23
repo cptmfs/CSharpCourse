@@ -50,7 +50,7 @@
 
     // Params Keyword İle Çalışmak
 
-    static int Add4(params int[] numbers )
+    static int Add4(int number, params int[] numbers )
     {
         return numbers.Sum();
     }
