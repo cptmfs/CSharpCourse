@@ -1,0 +1,15 @@
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.exe
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.deps.json
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.runtimeconfig.json
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.pdb
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\refint\TypesAndVariables.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.pdb
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.genruntimeconfig.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\ref\TypesAndVariables.dll

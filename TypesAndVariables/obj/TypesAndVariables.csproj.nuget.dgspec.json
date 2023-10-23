@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KAPTAN\\source\\repos\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {}
+    "C:\\Users\\KAPTAN\\Documents\\GitHub\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KAPTAN\\source\\repos\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {
+    "C:\\Users\\KAPTAN\\Documents\\GitHub\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KAPTAN\\source\\repos\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
+        "projectUniqueName": "C:\\Users\\KAPTAN\\Documents\\GitHub\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
         "projectName": "TypesAndVariables",
-        "projectPath": "C:\\Users\\KAPTAN\\source\\repos\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
+        "projectPath": "C:\\Users\\KAPTAN\\Documents\\GitHub\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
         "packagesPath": "C:\\Users\\KAPTAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KAPTAN\\source\\repos\\CSharpCourse\\TypesAndVariables\\obj\\",
+        "outputPath": "C:\\Users\\KAPTAN\\Documents\\GitHub\\CSharpCourse\\TypesAndVariables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KAPTAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
