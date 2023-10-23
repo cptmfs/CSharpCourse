@@ -7,9 +7,9 @@
         Add();
         Add();
         var result= Add2();
-        int number1 = 20;
+        int number1;
         int number2 = 100;
-        var result2=Add3(ref number1 ,number2);
+        var result2=Add3(out number1 ,number2);
         Console.WriteLine(result);
         Console.WriteLine(result2);
         Console.WriteLine(number1);
@@ -27,11 +27,12 @@
     }
 
     // Ref Keyword İle Çalışmak
-    static int Add3(ref int num1 , int num2 )
+    static int Add3(out int num1 , int num2 )
     {
         num1 = 30;
         return num1+num2;
     }
+
 
 
 
