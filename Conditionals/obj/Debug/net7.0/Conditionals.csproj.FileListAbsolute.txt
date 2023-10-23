@@ -1,0 +1,15 @@
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.exe
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.deps.json
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.runtimeconfig.json
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.pdb
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.csproj.AssemblyReference.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfo.cs
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\refint\Conditionals.dll
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.pdb
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.genruntimeconfig.cache
+C:\Users\KAPTAN\Documents\GitHub\CSharpCourse\Conditionals\obj\Debug\net7.0\ref\Conditionals.dll
