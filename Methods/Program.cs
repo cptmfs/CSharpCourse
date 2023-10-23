@@ -6,7 +6,7 @@
         Add();
         Add();
         Add();
-       var result= Add2(20,30);
+       var result= Add2();
         Console.WriteLine(result);
         Console.ReadLine();
     }
@@ -15,9 +15,11 @@
         Console.WriteLine("Added!!!");
     }
     //Parametreli Metotlarla Çalışmak
-    static int Add2(int num1, int num2)
+    static int Add2(int num1=20, int num2 = 30)
     {
         var result =num1+ num2; 
         return result;
     }
+
+
 }
